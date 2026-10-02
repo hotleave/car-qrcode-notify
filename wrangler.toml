@@ -2,7 +2,11 @@ name = "car-qrcode-notify"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
+[[kv_namespaces]]
+binding = "DATA"
+id = "c6abb144b9b8450d8026e33665b77be3"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "movecar-db"
-database_id = ""  # 替换为你的D1数据库ID
+database_id = "6a92c579-cd67-489a-b45f-00a789014918"
